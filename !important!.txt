@@ -1,0 +1,7 @@
+- When you open the program. Go to the 'GlobalMethods class' line 18 and 
+paste your sql connection below this code.
+
+public static SqlConnection connection = new SqlConnection("your_sql_connection"); 
+ 
+
+- (First you need to add sql query! Check the 'Database Query' Folder for more informations!)
